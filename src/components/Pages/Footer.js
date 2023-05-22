@@ -36,7 +36,6 @@ const Footer = () => {
             </div>
 
             <div>© 2023 Christopher Nabo</div>
-
         </div>
     );
 };
